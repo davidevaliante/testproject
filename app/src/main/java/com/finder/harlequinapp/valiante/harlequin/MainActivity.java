@@ -40,6 +40,7 @@ public class MainActivity extends Activity {
     //TODO il lock dopo aver fatto il login adesso funziona ma solo se si spamma il pulsante indietro, va migliorato
 
     //Stringa di prova per branch
+    //Stringa di prova per branch con il secondo commit
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
