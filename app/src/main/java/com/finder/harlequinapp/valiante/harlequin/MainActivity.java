@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthStateListener;
 
-
+    //prova master branch update
     //TODO devo aggiungere il lock nella UserPage per evitare che l'utente torni in questa pagina
     //TODO il lock dopo aver fatto il login adesso funziona ma solo se si spamma il pulsante indietro, va migliorato
 
