@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
     //TODO devo aggiungere il lock nella UserPage per evitare che l'utente torni in questa pagina
     //TODO il lock dopo aver fatto il login adesso funziona ma solo se si spamma il pulsante indietro, va migliorato
 
-
+    //prova branch
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
